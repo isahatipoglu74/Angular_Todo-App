@@ -28,5 +28,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # Project Display Image
 <p>
-<img src="https://github.com/isahatipoglu74/my-todo-app/blob/main/image.png" width="300" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/my-todo-app/blob/main/image.png" width="500" height="350" style="max-width:100%;"></a>
 </p>
